@@ -1,5 +1,5 @@
 # 💫 Acerca de Mí:
-🔭 Actualmente estudio Ingeniería en Software<br>🌱 Estoy aprendiendo desarrollo Front-end 
+🔭 Actualmente egresado de la carrera de Ingeniería de Software<br>🌱 Interesado mucho en el desarrollo Frontend con frameworks como React, Astro.
 
 
 ## 🌐 Redes Sociales:
