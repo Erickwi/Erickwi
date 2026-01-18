@@ -1,6 +1,7 @@
+![banner (1)](https://github.com/user-attachments/assets/9e8f9fc3-2c78-4e53-99d9-700045e64506)
+
 # 💫 Acerca de Mí:
 🔭 Ingeniero de Software<br>🌱 Interesado mucho en el desarrollo Frontend con frameworks como React, Astro.
-
 
 ## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erick_.ramirez) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erick_.ramirez) 
