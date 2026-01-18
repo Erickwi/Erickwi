@@ -2,7 +2,7 @@
 
 # 💫 Acerca de Mí:
 🔭 Ingeniero de Software   
-💻 **[Mi Portafolio Personal](https://erickwi.github.io/Portafolio/)**
+💻 **[Mi Portafolio Personal](https://erickwi.github.io/Portafolio/)**   
 🌱 Interesado mucho en el desarrollo Frontend con frameworks como React, Astro.   
 
 ## 🌐 Redes Sociales:
